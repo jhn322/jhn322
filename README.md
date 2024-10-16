@@ -17,9 +17,9 @@
 
 ### 🔭 I'm currently working on:
 
-- [Kometa config](https://github.com/jhn322/kometa-config){:target="\_blank"} ![Kometa Config](https://img.shields.io/badge/config-kometa-red?style=flat-square&borderRadius=20px)
-- Next.js project (TBD) ![Next.js](https://img.shields.io/badge/Next.js-project-red?style=flat-square&borderRadius=20px)
-- [Holmsund Information](https://jhn-holmsund-information.netlify.app/){:target="\_blank"} ![Holmsund Information](https://img.shields.io/badge/Holmsund-Information-red?style=flat-square&borderRadius=20px)
+- [Kometa config](https://github.com/jhn322/kometa-config) ![Kometa Config](https://img.shields.io/badge/Config-Kometa-red?style=flat-square&borderRadius=20px)
+- Next.js Project (TBD) ![Next.js](https://img.shields.io/badge/Next.js-Project-red?style=flat-square&borderRadius=20px)
+- [Holmsund Information](https://jhn-holmsund-information.netlify.app/) ![Holmsund Information](https://img.shields.io/badge/React-Site-red?style=flat-square&borderRadius=20px)
 - More things..
 
 ### 📧 How to contact me:
