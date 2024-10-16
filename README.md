@@ -1,4 +1,4 @@
-### Hello there, welcome to my GitHub profile!
+### Hey there, welcome to my GitHub profile!
 
 ## ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jhn322.jhn322&color=red) [![Github](https://img.shields.io/github/followers/jhn322?label=Follow&style=social)](https://github.com/jhn322)
 
@@ -17,15 +17,15 @@
 
 ### 🔭 I'm currently working on:
 
-- [Kometa config](https://github.com/jhn322/kometa-config) ![Kometa Config](https://img.shields.io/badge/Config-Kometa-red?style=flat-square&borderRadius=20px)
+- [Kometa Config](https://github.com/jhn322/kometa-config) ![Kometa Config](https://img.shields.io/badge/Config-Kometa-red?style=flat-square&borderRadius=20px)
 - Next.js Project (TBD) ![Next.js](https://img.shields.io/badge/Next.js-Project-red?style=flat-square&borderRadius=20px)
 - [Holmsund Information](https://jhn-holmsund-information.netlify.app/) ![Holmsund Information](https://img.shields.io/badge/React-Site-red?style=flat-square&borderRadius=20px)
 - More things..
 
 ### 📧 How to contact me:
 
-- **Email:** [My Email](mailto:johan.soderlund96@gmail.com)
-- **Website:** [My portfolio](https://jhn-portfolio.netlify.app/)
+- **Email:** [Send me an email](mailto:johan.soderlund96@gmail.com)
+- **Website:** [Contact through my Portfolio](https://jhn-portfolio.netlify.app/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhn322&show_icons=true&count_private=true&theme=dark-red)
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhn322&theme=dark-red)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhn322&show_icons=true&count_private=true&theme=radical)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhn322&theme=radical)
