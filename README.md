@@ -17,9 +17,9 @@
 
 ### 🔭 I'm currently working on:
 
-- Kometa config ![Kometa Config](https://img.shields.io/badge/config-kometa-red?style=flat-square&borderRadius=20px)
+- [Kometa config](https://github.com/jhn322/kometa-config){:target="\_blank"} ![Kometa Config](https://img.shields.io/badge/config-kometa-red?style=flat-square&borderRadius=20px)
 - Next.js project (TBD) ![Next.js](https://img.shields.io/badge/Next.js-project-red?style=flat-square&borderRadius=20px)
-- Holmsund Information ![Holmsund Information](https://img.shields.io/badge/Holmsund-Information-red?style=flat-square&borderRadius=20px)
+- [Holmsund Information](https://jhn-holmsund-information.netlify.app/){:target="\_blank"} ![Holmsund Information](https://img.shields.io/badge/Holmsund-Information-red?style=flat-square&borderRadius=20px)
 - More things..
 
 ### 📧 How to contact me:
@@ -27,5 +27,5 @@
 - **Email:** [My Email](mailto:johan.soderlund96@gmail.com)
 - **Website:** [My portfolio](https://jhn-portfolio.netlify.app/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhn322&show_icons=true&count_private=true&theme=black-red)
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhn322&theme=black-red)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhn322&show_icons=true&count_private=true&theme=dark-red)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhn322&theme=dark-red)
