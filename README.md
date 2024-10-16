@@ -12,19 +12,20 @@
 - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 - ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 - ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 - ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-### 🔭 I’m currently working on
+### 🔭 I'm currently working on:
 
-- Kometa config ![Kometa Config](https://img.shields.io/badge/config-kometa-red?style=flat-square)
-- Next.js project (TBD) ![Next.js](https://img.shields.io/badge/Next.js-project-red?style=flat-square)
-- Holmsund Information ![Holmsund Information](https://img.shields.io/badge/Holmsund-red?style=flat-square)
+- Kometa config ![Kometa Config](https://img.shields.io/badge/config-kometa-red?style=flat-square&borderRadius=20px)
+- Next.js project (TBD) ![Next.js](https://img.shields.io/badge/Next.js-project-red?style=flat-square&borderRadius=20px)
+- Holmsund Information ![Holmsund Information](https://img.shields.io/badge/Holmsund-Information-red?style=flat-square&borderRadius=20px)
 - More things..
 
-### 📧 How to contact me
+### 📧 How to contact me:
 
-- **discord:** [Contact me on Discord: jhn322#3935](https://discord.com)
-- **website:** [My portfolio](https://jhn-portfolio.netlify.app/)
+- **Email:** [My Email](mailto:johan.soderlund96@gmail.com)
+- **Website:** [My portfolio](https://jhn-portfolio.netlify.app/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhn322&show_icons=true&count_private=true&theme=blue-green)
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhn322&theme=blue-green)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhn322&show_icons=true&count_private=true&theme=black-red)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhn322&theme=black-red)
