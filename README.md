@@ -16,12 +16,11 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### 🔭 I'm currently working on:
+### 🔭 I'm currently maintaining:
 
 - [Kometa Config](https://github.com/jhn322/kometa-config) ![Kometa Config](https://img.shields.io/badge/Config-Kometa-red?style=flat-square&borderRadius=20px)
 - Next.js Project (TBD) ![Next.js](https://img.shields.io/badge/Next.js-Project-red?style=flat-square&borderRadius=20px)
 - [Holmsund Information](https://jhn-holmsund-information.netlify.app/) ![Holmsund Information](https://img.shields.io/badge/React-Site-red?style=flat-square&borderRadius=20px)
-- More things..
 
 ### 📧 How to contact me:
 
