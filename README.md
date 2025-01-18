@@ -1,35 +1,105 @@
-### Hey there, welcome to my GitHub profile!
+<h1 align="center">Hey 👋, welcome to my profile!</h1> 
+<h3 align="center">I'm a full-stack web developer, photo editor, linux, docker, media server enthusiast 💻</h3>
 
-## ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jhn322.jhn322&color=red) [![Github](https://img.shields.io/github/followers/jhn322?label=Follow&style=social)](https://github.com/jhn322)
+<br/>
 
-### 💻 I'm mainly working with:
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jhn322.jhn322&color=red) [![Github](https://img.shields.io/github/followers/jhn322?label=Follow&style=social)](https://github.com/jhn322)
 
-#### Frameworks:
+### ☄️ Technologies I'm mainly working with:
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<hr>
+<table><tr><td valign="top" width="33%">
 
-#### CSS Frameworks:
+#### Frontend
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a> 
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>    
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="50" /></a>   
+<a href="https://obsidian.md/" target="_blank"><img style="margin: 10px" src="https://obsidian.md/images/obsidian-logo-gradient.svg" alt="Obsidian" height="50" /></a>  
+<a href="https://wordpress.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" height="50" /></a>
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="50" /></a>
+<a href="https://www.canva.com/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" alt="Canva" height="50" /></a>
+</div>
 
-#### Languages:
+</td><td valign="top" width="33%">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+#### Backend
 
-#### Backend:
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>   
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a> 
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" alt="GraphQL" height="50" /></a>
+<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_-330x400.png" alt="Prisma" height="50" /></a>
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>   
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>   
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://yaml.org/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/yaml-file-icon.png" alt="YAML" height="50" /></a>
+<a href="https://markdown.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" alt="Markdown" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" alt="Postman" height="50" /></a>
+</div>
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+</td><td valign="top" width="33%">
 
-### 🔭 I'm currently maintaining:
+#### DevOps & OS
+
+<div align="center">  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>     
+<a href="https://analytics.google.com/" target="_blank"><img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Analytics-Logo-700x394.png" alt="Google Analytics" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
+<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://assets.vercel.com/image/upload/v1572890785/repositories/vercel/logo.png" alt="Vercel" height="50" /></a>
+<a href="https://netlify.com/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" alt="Netlify" height="50" /></a>
+<a href="https://github.com/features/actions" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" height="50" /></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" height="50" /></a>
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+<a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" alt="Ubuntu" height="50" /></a>
+<a href="https://www.linuxmint.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Mint" height="50" /></a>
+<a href="https://www.microsoft.com/windows/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows" height="50" /></a>
+<a href="https://www.apple.com/macos/" target="_blank"><img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2023/03/Mac-Symbol-500x281.png" alt="MacOS" height="50" /></a>
+</div>
+
+</td></tr></table>
+
+<br/>
+
+### 🔭 Currently maintained projects:
+
+<hr>
 
 - [Kometa Config](https://github.com/jhn322/kometa-config) ![Kometa Config](https://img.shields.io/badge/Config-Kometa-red?style=flat-square&borderRadius=20px)
-- Next.js Project (TBD) ![Next.js](https://img.shields.io/badge/Next.js-Project-red?style=flat-square&borderRadius=20px)
+- **Next.js Project (TBD)** ![Next.js](https://img.shields.io/badge/Next.js-Project-red?style=flat-square&borderRadius=20px)
 - [Holmsund Information](https://jhn-holmsund-information.netlify.app/) ![Holmsund Information](https://img.shields.io/badge/React-Site-red?style=flat-square&borderRadius=20px)
+
+<br/>
 
 ### 📧 How to contact me:
 
-- **Email:** [Send me an email](mailto:johan.soderlund96@gmail.com)
+<hr>
+
+- **Discord:** @jhn322
+
 - **Website:** [Contact through my Portfolio](https://jhn-portfolio.netlify.app/)
 
+<br/>
+
+### ⌨️ GitHub Stats
+
+<hr>
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhn322&show_icons=true&count_private=true&theme=radical)
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhn322&theme=radical)
+
+</td></tr></table>
+<br />
