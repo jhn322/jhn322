@@ -97,9 +97,13 @@
 ### ⌨️ GitHub Stats
 
 <hr>
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhn322&show_icons=true&count_private=true&theme=radical)
-![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=jhn322&theme=radical)
 
-</td></tr></table>
+<div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=jhn322&show_icons=true&count_private=true&theme=dracula" alt="GitHub Stats" />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhn322&layout=compact&theme=dracula" alt="Top Languages" />
+</div>
+
+
 <br />
+
