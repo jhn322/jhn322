@@ -100,7 +100,7 @@
 
 <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=jhn322&show_icons=true&count_private=true&theme=dracula" alt="GitHub Stats" />
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhn322&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
