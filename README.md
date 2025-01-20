@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, welcome to my profile!</h1> 
-<h3 align="center">I'm a full-stack web developer, photo editor, linux, docker, media server enthusiast 💻</h3>
+<h1 align="center">Hey 👋, welcome!</h1> 
+<h3 align="center">I'm a full-stack web developer, photo editor, linux, docker & media server enthusiast 💻</h3>
 
 <br/>
 
