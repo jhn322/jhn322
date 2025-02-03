@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, welcome!</h1> 
-<h3 align="center">I'm a full-stack web developer, I also do some Linux and media server stuff! 💻</h3>
+<h3 align="center">I'm a full-stack web developer, also do Linux and media server stuff! 💻</h3>
 
 <br/>
 
