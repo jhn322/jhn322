@@ -84,17 +84,7 @@
 
 <br/>
 
-### 📧 How to contact me:
-
-<hr>
-
-- **Discord:** @jhn322
-
-- **Website:** [Contact through my Portfolio](https://jhn-portfolio.netlify.app/)
-
-<br/>
-
-### ⌨️ GitHub Stats
+### ⌨️ GitHub Stats:
 
 <hr>
 
@@ -106,4 +96,11 @@
 
 
 <br />
+
+### 📧 You can reach me at: 
+
+<hr>
+
+- **Discord:** @jhn322
+- **Steam:** @jhN322
 
