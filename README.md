@@ -102,5 +102,5 @@
 <hr>
 
 - **Discord:** @jhn322
-- **Steam:** @jhN322
+- **Steam:** @jhn322
 
