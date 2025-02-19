@@ -79,7 +79,7 @@
 <hr>
 
 - [Kometa Config](https://github.com/jhn322/kometa-config) ![Kometa Config](https://img.shields.io/badge/Config-Kometa-red?style=flat-square&borderRadius=20px)
-- [Chess-Next](https://github.com/jhn322/chess-next) ![Next.js](https://img.shields.io/badge/Next.js-App-red?style=flat-square&borderRadius=20px)
+- [NextMove](https://github.com/jhn322/next-move) ![Next.js](https://img.shields.io/badge/Next.js-App-red?style=flat-square&borderRadius=20px)
 - [Holmsund Information](https://jhn-holmsund-information.netlify.app/) ![Holmsund Information](https://img.shields.io/badge/React-Site-red?style=flat-square&borderRadius=20px)
 
 <br/>
