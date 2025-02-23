@@ -96,7 +96,7 @@
 
 <br />
 
-### 📧 You can reach me at: 
+### 📧 Contact me: 
 
 <hr>
 
