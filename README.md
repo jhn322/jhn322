@@ -96,11 +96,3 @@
 
 
 <br />
-
-### 📧 Contact me: 
-
-<hr>
-
-- **Discord:** @jhn322
-- **Steam:** @jhn322
-
