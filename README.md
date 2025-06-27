@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, welcome!</h1> 
-<h3 align="center">I'm a full stack web developer, I also do some Linux and media server stuff 💻</h3>
+<h3 align="center">I'm a Full-stack web developer, I also do some Linux and media server stuff 💻</h3>
 
 <br/>
 
@@ -96,3 +96,11 @@
 
 
 <br />
+
+
+### 📧 Contact me: 
+<hr>
+
+- **Discord:** @jhn322
+
+- **Steam:** @jhn322
