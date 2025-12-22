@@ -79,8 +79,8 @@
 <hr>
 
 - [Kometa Config](https://github.com/jhn322/kometa-config) ![Kometa Config](https://img.shields.io/badge/Config-Kometa-orange?style=flat-square&borderRadius=20px)
-- [Next.js Auth PostgreSQL](https://github.com/jhn322/nextjs-auth-postgres-template) ![Next.js](https://img.shields.io/badge/Next.js-Template-blue?style=flat-square&borderRadius=20px)
-- [Next.js Auth MongoDB](https://github.com/jhn322/nextjs-auth-mongo-template) ![Next.js](https://img.shields.io/badge/Next.js-Template-green?style=flat-square&borderRadius=20px)
+- [Better Auth Template](https://github.com/jhn322/next-betterauth-template) ![Next.js](https://img.shields.io/badge/Next.js-Template-blue?style=flat-square&borderRadius=20px)
+- [NextAuth Template](https://github.com/jhn322/nextjs-auth-mongo-template) ![Next.js](https://img.shields.io/badge/Next.js-Template-green?style=flat-square&borderRadius=20px)
 - [NextMove](https://github.com/jhn322/next-move) ![Next.js](https://img.shields.io/badge/Next.js-App-red?style=flat-square&borderRadius=20px)
 
 <br/>
@@ -105,4 +105,5 @@
 - **Discord:** @jhn322
 
 - **Steam:** @jhn322
+
 
