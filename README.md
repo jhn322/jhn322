@@ -78,7 +78,6 @@
 
 <hr>
 
-- [BooksDB](https://github.com/jhn322/booksdb) ![Next.js](https://img.shields.io/badge/Next.js-App-red?style=flat-square&borderRadius=20px)
 - [Kometa Config](https://github.com/jhn322/kometa-config) ![Kometa Config](https://img.shields.io/badge/Config-Kometa-orange?style=flat-square&borderRadius=20px)
 - [Better Auth Template](https://github.com/jhn322/better-auth-template) ![Next.js](https://img.shields.io/badge/Next.js-Template-blue?style=flat-square&borderRadius=20px)
 - [NextAuth Template](https://github.com/jhn322/nextjs-auth-mongo-template) ![Next.js](https://img.shields.io/badge/Next.js-Template-green?style=flat-square&borderRadius=20px)
