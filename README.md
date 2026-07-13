@@ -99,7 +99,7 @@
 
 ### ❤️ Sponsor
 
-If you've found one of my repos useful and you'd like to show your appreciation, I'd be grateful if you considered [becoming a GitHub Sponsor](https://github.com/sponsors/jhn322). :)
+If you've found one of my repos useful and you'd like to show your appreciation, considered [becoming a GitHub Sponsor](https://github.com/sponsors/jhn322). thanks :)
 
 
 ### 📧 Contact me: 
