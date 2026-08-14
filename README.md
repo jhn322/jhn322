@@ -105,9 +105,7 @@ If you've found one of my repos useful and you'd like to show your appreciation,
 ### 📧 Contact me: 
 <hr>
 
-- **Discord:** @jhn322
-
-- **Steam:** @jhn322
+- **Discord/Steam:** @jhn322
 
 
 
