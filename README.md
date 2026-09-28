@@ -97,11 +97,6 @@
 
 <br />
 
-### ❤️ Sponsor
-
-If you've found one of my repos useful and you'd like to show your appreciation, considered [becoming a GitHub Sponsor](https://github.com/sponsors/jhn322). thanks :)
-
-
 ### 📧 Contact me: 
 <hr>
 
