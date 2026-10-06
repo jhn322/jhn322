@@ -100,7 +100,7 @@
 ### 📧 Contact me: 
 <hr>
 
-- **Discord/Steam:** @jhn322
+- **Discord:** @jhn322
 
 
 
