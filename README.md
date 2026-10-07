@@ -79,7 +79,7 @@
 <hr>
 
 - [Kometa Config](https://github.com/jhn322/kometa-config) ![Kometa Config](https://img.shields.io/badge/Config-Kometa-orange?style=flat-square&borderRadius=20px)
-- [JS Design](https://github.com/jhn322/js-design) ![React](https://img.shields.io/badge/React-Studio-red?style=flat-square&borderRadius=20px)
+- [Khepri](https://github.com/jhn322/js-design) ![React](https://img.shields.io/badge/React-Studio-red?style=flat-square&borderRadius=20px)
 - [Better Auth Template](https://github.com/jhn322/better-auth-template) ![Next.js](https://img.shields.io/badge/Next.js-Template-blue?style=flat-square&borderRadius=20px)
 
 <br/>
